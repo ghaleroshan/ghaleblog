@@ -3,7 +3,7 @@ module.exports = {
     title: "Roshan Ghale",
     description: "Software Developer",
     lang: "en",
-    siteUrl: "https://ghaleroshan.com/",
+    siteUrl: "https://example.com/",
   },
   feed: { // used in feed.xml.njk
     subtitle: "Roshan Ghale, Software Developer",
@@ -14,7 +14,7 @@ module.exports = {
     authorEmail: "ghaleroshan@gmail.com"
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Hi, I am Roshan Ghale, a Software Engineer",
+    title: "I'm Roshan, Software Engineer",
     description: "Passionate Software Engineer skilled with Javscript, React, Node, as well as Salesforce Development. Currently working as a Software Developer at Practifi."
   }
 }
