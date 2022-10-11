@@ -1,28 +1,34 @@
 ---
-title: My very first post
-date: 2021-03-10
-description: Nesciunt nulla quisquam magnam libero consequatur debitis est, dolorum quam excepturi soluta
+title: Do's and Don'ts at your very first Meetup
+date: 2019-01-20
+description: Meet Ups are absolutely amazing. You get to meet a lot of new people who share the same interest.
 tags:
-  - hello
-  - css
-  - nice
+  - New
+  - meetup
 ---
 
-hello
+![Header Image for blog](/static/img/firstBlog/header.jpg)
+Meet Ups are absolutely amazing. You get to meet a lot of new people who share the same interest.
+It was the same for me as well. The only thing was my first meetup was an unknown topic for me.
 
-## wow nice h2 there
+So, this was my first meet up (Typescript). I wanted to go to so many other meetups but I simply didn't have the courage to go. I finally gathered all the courage to go to one. It was also because my brother was one of the assistant hosts. It took me a lot of time to finally go to a Meet Up. Let's have a look at the dos and don'ts :)
 
+![Header Image for blog](/static/img/firstBlog/body.jpg)
+### Don't be afraid to go to the Meet Ups. They are not that scary at all.
+Being a beginner in the dev community, I somehow felt out of place in the meetup. I had absolutely no idea about typescript (though I have done some Node.js). Luckily, it was a talk for beginners and I managed to get some tips and gained knowledge of Typescript.
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est, minima voluptates maxime quaerat qui, cumque temporibus libero nesciunt explicabo quasi eos, fugit voluptatem impedit expedita! Nesciunt nulla quisquam magnam libero consequatur debitis est, dolorum quam excepturi soluta ipsa aspernatur optio eveniet corporis sunt eaque beatae assumenda a ullam aliquid ad.
+### Do background research on what the meetup is about and try to get some knowledge beforehand.
+So, there I was, a shy person sitting in a corner just listening to others. What I saw was everyone talking to everyone even though they met for the first time. It was amazing how people can connect so quickly.
 
-Reprehenderit officia labore debitis quae neque fugiat iste sed, maiores nisi eligendi consequatur nesciunt possimus rem earum quidem inventore architecto praesentium, cum maxime, quaerat ipsam? Ea molestiae consequatur mollitia tempore expedita alias dicta quam tenetur vitae dolor magnam velit quod quisquam explicabo illo, ab eaque molestias reiciendis repellat fugiat culpa optio a earum nisi. 
+### Be proactive and try to talk to people.
+Initiate the conversation if needed. All the people are there to meet new people as well.
+During the talk, there was a moment where the recruiters were invited to share if there were any vacancies available at the moment. That was a surprise for me. I had no idea that the recruiters will actually come to meetup to find the suitable candidates. This was the opposite for me where I was applying to jobs and recruiters were not connecting to me. However, the position they were looking for was not on my criteria and I was a bit sad about it. So, I did not make an effort to talk to the recruiters. So, my fourth point is
 
-### Vero corporis ipsa facere tenetur explicabo 
+### Find recruiters and talk to them.
+Even if you know that what they are looking for is not you but try to make an impression and keep them on your contact list. Who knows when that opportunity will come to you. (I felt this after I walked out from the MeetUp)
 
-totam expedita delectus reprehenderit est eum. Eius, tenetur praesentium tempore dicta culpa labore sit hic similique at nesciunt temporibus perspiciatis aliquid dolorem esse voluptatem quis, cupiditate, aspernatur illo ipsam. 
-
-#### Deleniti provident nobis 
-
-maxime, qui molestias ex recusandae, magni consectetur iure nostrum sequi suscipit harum corrupti autem consequuntur animi veritatis? Eos laudantium quod beatae repudiandae accusamus fuga, adipisci tenetur odio nihil commodi optio ipsam voluptates quam esse reiciendis! 
-
-Eligendi inventore nesciunt veritatis mollitia cum! Veniam placeat saepe iure ab eius, ipsa quisquam voluptas quod ad libero ipsum vel officiis ullam eum.
+### Conclusion
+So, in overall, my first meetup somewhat of progress for me. I am a very shy and introverted person.
+I do not socialize well. However, my first meetup has given me a lot of confidence for the next. I hope this will
+help a lot of you beginners and introverted programmers like me to gain some courage to attend a meetup and
+open up yourself in the dev community.
