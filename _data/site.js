@@ -1,12 +1,12 @@
 module.exports = {
   meta: {
     title: "Roshan Ghale",
-    description: "Software Developer",
+    description: "Software Engineer",
     lang: "en",
-    siteUrl: "https://example.com/",
+    siteUrl: "https://ghaleroshan.com/",
   },
   feed: { // used in feed.xml.njk
-    subtitle: "Roshan Ghale, Software Developer",
+    subtitle: "Roshan Ghale, Software Engineer",
     filename: "atom.xml",
     path: "/atom.xml",
     id: "https://ghaleroshan.com/",
@@ -14,7 +14,7 @@ module.exports = {
     authorEmail: "ghaleroshan@gmail.com"
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "I'm Roshan, Software Engineer",
-    description: "Passionate Software Engineer skilled with Javscript, React, Node, as well as Salesforce Development. Currently working as a Software Developer at Practifi."
+    title: "Hi! I'm Roshan, a Software Engineer",
+    description: "A passionate Software Engineer skilled in JavaScript, React, Node.js, as well as Salesforce Development. Currently I am working as a Software Engineer at Practifi."
   }
 }
